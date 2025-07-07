@@ -37,7 +37,8 @@ This project analyzes e-commerce sales data to uncover trends, track profitabili
 ## 📁 How to Use
 
 1. Download the Excel file.
-2. Explore visual insights from different categories, segments, and months.
+2. https://lpuin-my.sharepoint.com/:x:/g/personal/adamya_gupta2025_lpu_in/EcRbccu4ITlIohLyTpV9rg8B9sYqBDwrs_DV24ZUxQrk0g?e=XvJMOd
+3. Explore visual insights from different categories, segments, and months.
 
 ---
 
